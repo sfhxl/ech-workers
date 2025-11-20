@@ -1,7 +1,7 @@
 # ech-workers
 cloudflare workers proxy
 
-第一步，将workrs.txt的代码完整复制粘贴到workers里面\
+第一步，将workrs.js的代码完整复制粘贴到workers里面\
 第二步，启动ech-workers客户端，启动参数-h看帮助文件
 
 Usage:\ 
